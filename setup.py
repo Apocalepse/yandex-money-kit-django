@@ -33,7 +33,7 @@ setup(
     ],
     install_requires=[
         'Django>=1.4',
-        'South>=0.7.5',
+        # 'South>=0.7.5',
         'lxml>=2.3.4',
     ],
 )
